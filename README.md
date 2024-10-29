@@ -16,7 +16,7 @@ A React component for viewing EML (email) files with Japanese encoding support.
 ## Installation
 
 ```bash
-npm install @stackblitz/eml-viewer
+npm install @m7ericsson/eml-viewer
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ npm install @stackblitz/eml-viewer
 ### Basic Usage
 
 ```tsx
-import { EmlViewer } from '@stackblitz/eml-viewer';
+import { EmlViewer } from '@m7ericsson/eml-viewer';
 
 function App() {
   return (
@@ -39,7 +39,7 @@ function App() {
 ### Custom File Selection UI
 
 ```tsx
-import { EmlViewer } from '@stackblitz/eml-viewer';
+import { EmlViewer } from '@m7ericsson/eml-viewer';
 
 function App() {
   return (
