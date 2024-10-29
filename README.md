@@ -1,4 +1,4 @@
-# @stackblitz/eml-viewer
+# @m7ericsson/eml-viewer
 
 A React component for viewing EML (email) files with Japanese encoding support.
 
