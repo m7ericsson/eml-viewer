@@ -1,5 +1,5 @@
 {
-  "name": "@stackblitz/eml-viewer",
+  "name": "@m7ericsson/eml-viewer",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
